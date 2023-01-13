@@ -1,0 +1,4 @@
+<included>
+    <property name="LOG_PATTERN" value="[%d{yyyy:MM:dd HH:mm:ss.SSS}]  %green([%thread])
+    %highlight(%-5level) %boldWhite([%-20.30logger{35}:%yellow(%L)]) - %msg %n"/>
+</included>

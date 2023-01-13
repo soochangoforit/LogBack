@@ -15,6 +15,9 @@ public class TestController {
         log.warn("warn");
         log.info("info");
         log.debug("debug");
-        return "test";
+        throw new RuntimeException("test");
+
     }
+
+
 }

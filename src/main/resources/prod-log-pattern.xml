@@ -1,0 +1,3 @@
+<included>
+    <property name="LOG_PATTERN" value="[%d{yyyy:MM:dd HH:mm:ss.SSS}] %-5level --- [%15thread] %-20.30logger{35} : %msg %n"/>
+</included>
